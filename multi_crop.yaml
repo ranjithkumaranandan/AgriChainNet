@@ -1,0 +1,7 @@
+names:
+- disease_0
+nc: 1
+path: D:/September/final_datasets/Multi_Crop
+test: test/images
+train: train/images
+val: val/images
