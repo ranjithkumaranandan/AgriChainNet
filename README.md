@@ -1,8 +1,8 @@
 # AgriChainNet
 
-**A Secure and Transparent Automated Crop Disease Analysis Framework Using Blockchain-Assisted Attention-Enhanced Multi-Task Deep Learning for Precision Agriculture**
 
-Ranjith Kumar Anandan · Department of Computer Science and Engineering, SRM Institute of Science and Technology, Ramapuram, Chennai, India
+
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue) ![PyTorch](https://img.shields.io/badge/PyTorch-2.11-ee4c2c) ![CUDA](https://img.shields.io/badge/CUDA-12.8-76b900) ![License](https://img.shields.io/badge/License-MIT-green)
 
