@@ -204,11 +204,7 @@ Example output of the inference pipeline:
 
 Severity levels: Low < 20%, Medium 20–40%, High > 40% diseased leaf area.
 
-## Trained weights
 
-Available at: _add Zenodo / GitHub Release link_
-
----
 
 ## Citation
 
